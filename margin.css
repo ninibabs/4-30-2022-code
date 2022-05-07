@@ -1,0 +1,11 @@
+.nini{
+    border:2px solid orangered;
+}
+
+.seese{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    height:100vh;
+}
